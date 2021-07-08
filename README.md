@@ -9,3 +9,5 @@
 - [x] - Implementing multithreading via mutex
 - [x] - Solving the Deadlock Problem
 - [x] - Solving the Livelock Problem
+
+![philo.gif](https://github.com/budelphine/_philo/blob/main/philo.gif)
